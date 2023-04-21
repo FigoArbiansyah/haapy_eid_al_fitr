@@ -36,7 +36,7 @@ function App() {
             Assalamualaikum Warahmatullahi Wabarakatuh,
             </span>
             <span>
-              <span  className='font-semibold'>Selamat Hari Raya Idul Fitri 1444 Hijriyah!</span> Saya, Figo Arbiansyah, mengucapkan selamat hari raya Idul Fitri kepada teman-teman yang merayakannya.
+              <span  className='font-semibold'>Selamat Hari Raya Idul Fitri 1444 Hijriyah!</span> Kami, Segenap Keluarga XII RPL 1, mengucapkan selamat hari raya Idul Fitri kepada teman-teman yang merayakannya.
             </span> 
             <span>
               Semoga segala ibadah dan amalan puasa yang telah dilakukan selama sebulan penuh di bulan suci Ramadan diterima oleh Allah SWT dan mendapatkan pahala yang melimpah.
