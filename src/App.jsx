@@ -30,7 +30,7 @@ function App() {
       </div>
       <div className={`ucapan ${show ? "flex" : "hidden"} min-h-screen overflow-hidden bg-white absolute w-full top-0 flex-col items-center`}>
         <img src={bulan} className='z-50 w-48' alt="" />
-        <div className="p-4">
+        <div className="p-4 md:w-5/12">
           <p className='flex gap-3 flex-col'>
             <span className="font-semibold">
             Assalamualaikum Warahmatullahi Wabarakatuh,
@@ -52,7 +52,7 @@ function App() {
             </span>
           </p>
         </div>
-        <img src={bedug} className='z-50 w-full' alt="" />
+        <img src={bedug} className='z-50 w-full md:w-5/12' alt="" />
       </div>
     </section>
   )
